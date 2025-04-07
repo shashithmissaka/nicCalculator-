@@ -14,3 +14,5 @@ A C++ application that parses Sri Lankan NIC numbers (both old and new formats) 
 
    ```bash
    git clone https://github.com/shashithmissaka/nicCalculator-.git
+- Open your terminal or command prompt.
+- Run the following command to clone the repository to your local machine:
